@@ -1,2 +1,5 @@
 gitの練習
 学びます
+/
+git add
+git commitgg
