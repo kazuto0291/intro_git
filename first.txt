@@ -4,3 +4,4 @@ gitの練習
 git add
 git commitgg
 git rm
+git status
